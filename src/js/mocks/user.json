@@ -1,0 +1,31 @@
+{
+  "type": "single",
+  "hobbies": [
+    "tempor",
+    "aliqua",
+    "est",
+    "excepteur",
+    "culpa",
+    "qui",
+    "esse",
+    "velit",
+    "occaecat",
+    "in"
+  ],
+  "longitude": "161.576226",
+  "latitude": "-0.074807",
+  "registered": "Friday, July 14, 2017 8:15 PM",
+  "about": "Quis ex Lorem voluptate sint ut laboris veniam duis. Dolor cupidatat esse aliquip laboris ad et sit consectetur amet voluptate commodo commodo. Et exercitation quis labore deserunt in dolore elit pariatur commodo pariatur. Consequat do aliqua do culpa incididunt mollit aliqua ex officia nostrud ea.",
+  "address": "998 Irvington Place, Stevens, Palau, 2530",
+  "email": "sandoval.williamson@undefined.io",
+  "name": {
+    "last": "Williamson",
+    "first": "Sandoval"
+  },
+  "age": 48,
+  "picture": "0.jpg",
+  "isActive": false,
+  "guid": "98df0a16-dd69-466f-8d5d-054373c1f3fc",
+  "index": 0,
+  "_id": "5a019a2e462da3801ff4b8e2"
+}
